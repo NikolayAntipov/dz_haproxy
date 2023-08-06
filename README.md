@@ -11,7 +11,7 @@
 
 `При необходимости прикрепитe сюда скриншоты`
 ![код ранера](https://github.com/NikolayAntipov/dz-gitlab/blob/main/img/runner%20code.jpg)
-![ранер запущен](https://github.com/NikolayAntipov/dz-gitlab/blob/main/img/runner.jpg)
+[ранер запущен](https://github.com/NikolayAntipov/dz-gitlab/blob/main/img/runner.jpg)
 
 ---
 
@@ -26,6 +26,6 @@ HAproxy должен балансировать только тот http-тра�
  ![код ранера](https://github.com/NikolayAntipov/dz-gitlab/blob/main/img/pipeline%20gitlab.jpg)
  
  скриншот из сонара 
- ![код ранера](https://github.com/NikolayAntipov/dz-gitlab/blob/main/img/%D0%BA%D0%BE%D0%B4%20%D0%B2%20%D1%81%D0%BE%D0%BD%D0%B0%D1%80%D0%B5.jpg)
+ [код ранера](https://github.com/NikolayAntipov/dz-gitlab/blob/main/img/%D0%BA%D0%BE%D0%B4%20%D0%B2%20%D1%81%D0%BE%D0%BD%D0%B0%D1%80%D0%B5.jpg)
  
  
