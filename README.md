@@ -29,11 +29,11 @@ HAproxy должен балансировать только тот http-тра�
 
 Скриншот после установки весов серверов
 
-![2веса](https://github.com/NikolayAntipov/dz_haproxy/blob/main/img/2%D0%B2%D0%B5%D1%81%D0%B0.JPG)
+![2веса](https://github.com/NikolayAntipov/dz_haproxy/blob/main/img/2weight.JPG)
 
 Скришот отправки на другое имя отличное от example.local
 
-![2другое имя](https://github.com/NikolayAntipov/dz_haproxy/blob/main/img/2%D0%B4%D1%80%D1%83%D0%B3%D0%BE%D0%B5%20%D0%B8%D0%BC%D1%8F.JPG)
+![2другое имя](https://github.com/NikolayAntipov/dz_haproxy/blob/main/img/2diffname.JPG)
 
 Конфигурационный файл haproxy2
 [2_haproxy](https://github.com/NikolayAntipov/dz_haproxy/blob/main/img/2_haproxy.cfg)
